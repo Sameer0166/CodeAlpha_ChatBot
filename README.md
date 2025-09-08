@@ -35,18 +35,23 @@ CodeAlpha_ChatBot is a **console-based interactive chatbot** built with Python. 
 
 ## Example Interaction  
 You: hello
+
 Chatbot: Hey!
 
 You: tell me a joke
+
 Chatbot: Why do programmers prefer dark mode? Because light attracts bugs!
 
 You: what time is it
+
 Chatbot: It's 08:59 PM on Monday, September 08, 2025.
 
 You: weather
+
 Chatbot: The weather today is sunny with a light breeze. Perfect day to code!
 
 You: bye
+
 Chatbot: Goodbye! It was nice chatting with you.
 
 ## Future Improvements  
