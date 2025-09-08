@@ -61,9 +61,6 @@ Chatbot: Goodbye! It was nice chatting with you.
 - Develop a graphical user interface (GUI).  
 - Explore basic NLP for smarter responses.
 
-## License  
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact  
 **Mohd Sameer Pasha**
 
